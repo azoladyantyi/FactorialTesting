@@ -41,7 +41,7 @@ cd C:\Users\YourUsername\Documents
 ### Step 2: Clone the Repository
 
 ```powershell
-git clone https://github.com/azoladyantyi/FactorialApplication.git
+git clone https://github.com/azoladyantyi/FactorialTesting.git
 ```
 
 ### Step 3: Navigate to Project Directory
