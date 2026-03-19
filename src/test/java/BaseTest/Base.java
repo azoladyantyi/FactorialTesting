@@ -13,7 +13,7 @@ public class Base {
     public final String url = "https://qainterview.pythonanywhere.com/";
     public final String browserChoice = "chrome";
 
-    public BaseTest.WebDriver driver;
+    public WebDriver driver;
     public PositiveTestScripts factorialCalculatorScreen;
     public NegativeTestScript negativeTestScript;
     public Screenshots screenshots;
