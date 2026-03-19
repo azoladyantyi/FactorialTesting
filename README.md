@@ -336,10 +336,10 @@ In your test code:
 public void myTest() {
     // Perform actions
     factorialCalculatorScreen.enterNumber(123);
-
+    
     // Capture screenshot
     screenshots.takesSnapShot(driver, "AfterNumberEntry");
-
+    
     // Continue testing
     factorialCalculatorScreen.clickCalculate();
     screenshots.takesSnapShot(driver, "AfterCalculation");
@@ -466,5 +466,6 @@ For issues or questions:
 
 ---
 
-**Last Updated:** March 19, 2026
+**Last Updated:** March 18, 2026  
 **Project Version:** 1.0-SNAPSHOT
+
